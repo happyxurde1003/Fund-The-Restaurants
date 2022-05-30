@@ -1,4 +1,5 @@
 # Fund The Restaurants
+
 A dapp that allows customers to donate funds to restaurants and earn NFT
 
 - Live Site - https://fund-the-restaurants.web.app/
